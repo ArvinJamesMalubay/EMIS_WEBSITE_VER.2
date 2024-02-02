@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\EMIS_WEBSITE_VER.02\bin\Debug\EMIS_WEBSITE_VER.02.exe.config
+C:\Users\Dell\source\repos\EMIS_WEBSITE_VER.02\bin\Debug\EMIS_WEBSITE_VER.02.exe
+C:\Users\Dell\source\repos\EMIS_WEBSITE_VER.02\bin\Debug\EMIS_WEBSITE_VER.02.pdb
+C:\Users\Dell\source\repos\EMIS_WEBSITE_VER.02\obj\Debug\EMIS_WEBSITE_VER.02.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\EMIS_WEBSITE_VER.02\obj\Debug\EMIS_WEBSITE_VER._02.Form1.resources
+C:\Users\Dell\source\repos\EMIS_WEBSITE_VER.02\obj\Debug\EMIS_WEBSITE_VER._02.Properties.Resources.resources
+C:\Users\Dell\source\repos\EMIS_WEBSITE_VER.02\obj\Debug\EMIS_WEBSITE_VER.02.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\EMIS_WEBSITE_VER.02\obj\Debug\EMIS_WEBSITE_VER.02.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\EMIS_WEBSITE_VER.02\obj\Debug\EMIS_WEBSITE_VER.02.exe
+C:\Users\Dell\source\repos\EMIS_WEBSITE_VER.02\obj\Debug\EMIS_WEBSITE_VER.02.pdb
+C:\Users\Dell\source\repos\EMIS_WEBSITE_VER.02\obj\Debug\EMIS_WEBSITE_VER._02.Add_Student_Medical_Record.resources
+C:\Users\Dell\source\repos\EMIS_WEBSITE_VER.02\obj\Debug\EMIS_WEBSITE_VER._02.Physical_profile.resources
+C:\Users\Dell\source\repos\EMIS_WEBSITE_VER.02\obj\Debug\EMIS_WEBSITE_VER._02.Form137.resources
+C:\Users\Dell\source\repos\EMIS_WEBSITE_VER.02\obj\Debug\EMIS_WEBSITE_VER._02.Enrollment_Form.resources
+C:\Users\Dell\source\repos\EMIS_WEBSITE_VER.02\obj\Debug\EMIS_WEBSITE_VER.02.csproj.ResolveComReference.cache
